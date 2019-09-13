@@ -16,7 +16,7 @@
               Home
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/qiutian00/vue-admin-template/">
+          <a target="_blank" href="https://github.com/qiutian00/vue-admin/">
             <el-dropdown-item>Github</el-dropdown-item>
           </a>
           <a target="_blank" href="https://qiutian00.github.io/vue-element-admin-site/#/">
