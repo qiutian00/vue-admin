@@ -58,7 +58,7 @@ Refer to [Documentation](https://qiutian00.github.io/vue-element-admin-site/guid
 
 ## Demo
 
-![demo](https://github.com/qiutian00/qiutian00.github.io/blob/master/images/demo.gif)
+![nsibdJ.gif](https://s2.ax1x.com/2019/09/13/nsibdJ.gif)
 
 ## Extra
 
